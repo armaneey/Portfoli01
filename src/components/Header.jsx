@@ -8,7 +8,7 @@ function Header() {
     <header className="bg-cyan-800 text-white p-4 shadow-md">
   <nav className="container mx-auto flex justify-between items-center">
     
-    <h1 className="text-2xl font-bold">My Portfolio</h1>
+    <h1 className="text-2xl font-bold"> My Portfolio</h1>
 
     <div
       className="md:hidden cursor-pointer"
