@@ -39,7 +39,7 @@ const About = () => {
       <p><strong className="font-semibold">Age:</strong> 20</p>
       <p><strong className="font-semibold">Gender:</strong> Female</p>
       <p><strong className="font-semibold">Languages:</strong> English, French, Arabic, Yoruba, and Igala</p>
-      <p><strong className="font-semibold">Work:</strong> Diplomat | Frontend Developer | Web Designer/Devloper</p>
+      <p><strong className="font-semibold">Work:</strong> Diplomat | Frontend Developer | Web Designer/Developer</p>
       <p><strong className="font-semibold">Phone:</strong> +2349036674477</p>
       <p><strong className="font-semibold">Email:</strong> <a href="mailto:imanshuaibu1@gmail.com" className="text-blue-500 hover:underline">imanshuaibu1@gmail.com</a></p>
       <p><strong className="font-semibold">Country:</strong> Nigeria</p>
